@@ -137,11 +137,11 @@ Thumbs.db
 *.pickle
 
 # Model files
-*.keras
-*.h5
-best_model.*
-saved_model/
-checkpoints/
+# *.keras
+# *.h5
+# best_model.*
+# saved_model/
+# checkpoints/
 
 # Logs
 *.log
